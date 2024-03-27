@@ -2,6 +2,7 @@
 A script that uses WhoIsXML's Domain Research Suite API to pull domains for given nameservers. To use, supply a keyword and the associated nameservers.
 
 ## Usage
+```
 ╰─$ python3.11 whoisxml-ns-search.py discord gabe.ns.cloudflare.com sima.ns.cloudflare.com                                                                                                    
 discord.com
 discordgames.com
@@ -26,3 +27,4 @@ discord.gift
 discord.help
 discordsays.com
 discordrtc.com
+```
